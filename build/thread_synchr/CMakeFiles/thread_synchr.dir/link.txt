@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthread_synchr.a  CMakeFiles/thread_synchr.dir/thread_synchr.cpp.o
+/usr/bin/ranlib libthread_synchr.a

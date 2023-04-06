@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthread_pool.a  
+/usr/bin/ranlib libthread_pool.a

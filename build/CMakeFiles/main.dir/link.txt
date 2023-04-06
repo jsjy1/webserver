@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o  -o main thread_pool/libthread_pool.a thread_synchr/libthread_synchr.a http_user/libhttp_user.a timer_stop/libtimer_stop.a thread_synchr/libthread_synchr.a -lpthread http_user/libhttp_user.a 

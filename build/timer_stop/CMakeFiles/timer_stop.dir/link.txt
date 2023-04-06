@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtimer_stop.a  CMakeFiles/timer_stop.dir/timer_stop.cpp.o
+/usr/bin/ranlib libtimer_stop.a

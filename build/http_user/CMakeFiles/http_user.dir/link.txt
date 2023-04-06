@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhttp_user.a  CMakeFiles/http_user.dir/http_user.cpp.o
+/usr/bin/ranlib libhttp_user.a
