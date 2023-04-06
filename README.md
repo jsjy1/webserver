@@ -1,10 +1,8 @@
 # webserver
 
----
 **伪proactor(主线程读写)+ET模式**
 
 ![流程图](flowchart.png)
-
 
 
 ---
